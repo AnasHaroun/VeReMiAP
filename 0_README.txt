@@ -72,10 +72,10 @@ This is the shape of the file structure in the current version of the dataset
 VeReMiPro/
 	├── LICENSE.txt
 	├── README.txt
-    ├── traceJSON-9-7-A0-1-0.json
-    ├── traceJSON-15-13-A0-1-0.json
-    ├── traceJSON-21-19-A0-3-0.json
-    ├── traceJSON-27-25-A0-3-0.json
+    	├── traceJSON-9-7-A0-1-0.json
+    	├── traceJSON-15-13-A0-1-0.json
+    	├── traceJSON-21-19-A0-3-0.json
+    	├── traceJSON-27-25-A0-3-0.json
 	├── ......
 
 Dataset Download
